@@ -7,7 +7,7 @@ file = open('score and data.txt', 'a+')
 import pygame
 import time
 flag = True
-
+screen = pygame.display.set_mode((700, 500))
 
 if flag == True:
   
